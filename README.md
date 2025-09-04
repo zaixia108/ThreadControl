@@ -12,7 +12,7 @@ python线程控制，使用ctypes实现即时线程还在运行中，也可以�
 
 ## 安装
 
-推荐使用 pip 安装（需先打包或上传到 PyPI）：
+推荐使用 pip 安装：
 
 ```bash
 pip install tdmgm
@@ -66,5 +66,3 @@ zaixia108
 ## 项目主页
 
 [https://github.com/zaixia108/ThreadControl](https://github.com/zaixia108/ThreadControl)
-```
-此文件保存为 `README.md`，放在项目根目录即可。
