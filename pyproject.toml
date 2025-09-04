@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tdmgm"
+version = "0.0.1"
+description = "Python thread control, using ctypes to achieve forcibly terminating a thread even if it is still running."
+readme = "README.md"
+authors = [
+    { name = "zaixia108", email = "xvbowen2012@gmail.com" }
+]
+license = { file = "LICENSE" }
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent"
+]
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/zaixia108/ThreadControl"
